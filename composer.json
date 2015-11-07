@@ -1,0 +1,14 @@
+{
+  "name": "dd/php-library-ddtextcompare",
+  "description": "A simple tool allowing to compare two texts",
+  "keywords": ["ddtextcompare", "string compare", "text compare", "dd", "divan design"],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "DDTextCompare\\": "src/"
+    }
+  }
+}
